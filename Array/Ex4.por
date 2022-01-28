@@ -31,7 +31,7 @@ programa
 			escreva("\n")
 		}
 
-		somaP = n[0][0] + n[0][1] + n[0][2]
+		somaP = n[0][0] + n[1][1] + n[2][2]
 
 		escreva("A soma dos números da matriz é: ", soma, "\n",
 		"A soma da primeira diagonal é: ", somaP)
